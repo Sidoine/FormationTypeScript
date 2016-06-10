@@ -1,0 +1,4 @@
+node_modules
+ts-sample/wwwroot/bundle.js*
+typings
+dist
